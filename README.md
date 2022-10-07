@@ -13,9 +13,9 @@
 
 :es: :us:
 
-- :star: Trying to master Angular
-- :telescope: I'm currently exploring Vue :alien:
-- :hourglass_flowing_sand: Experimenting with Svelte and learning React
+- :star: Trying to master Angular and React
+- :telescope: I'm currently exploring Astro :alien:
+- :hourglass_flowing_sand: Experimenting with Svelte
 - :microscope: Always ready to learn something new
 - :mailbox: Reach out to me at my social media profiles: <br>
 
