@@ -3,7 +3,7 @@
   <br>Hi, I'm Manuel Zambrano 👋<br>
   <br> I'm a Frontend Web Developer. <br>
   <br>
-![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cn3qt0s165ec73air1b0&custom_title=Manuel%20%40%20Prestalo&custom_subtitle=Tech%20Lead&show_icons=true&disable_animations=false&title_color=41b883&text_color=fffefe&icon_color=41b883&ring_color=fffefe&bg_color=273849&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F100925956%3Fv%3D4)
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="700" height="400">
  </abc>
 </h3>
 
