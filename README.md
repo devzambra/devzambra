@@ -1,9 +1,8 @@
 <h3 align="left">
  <abc>
   <br>Hi, I'm Manuel Zambrano 👋<br>
-  <br> I'm a Frontend Web Developer. <br>
   <br>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="700" height="400">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coder GIF" width="700" height="400">
  </abc>
 </h3>
 
