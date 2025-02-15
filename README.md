@@ -1,18 +1,5 @@
 <h2 align="left">Hi 👋! My name is Manu and I'm a passionate developer, from Spain.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devzambra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&custom_title=devzambra's%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devzambra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGNoNHAxMmw0M2NhaHJjM3JiNXZ0OTk2Nzl5b2cxcDg0NGxia20wOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dbtDDSvWErdf2/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
